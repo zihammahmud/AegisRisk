@@ -390,11 +390,11 @@ Viewing this repository on GitHub does not grant any rights to use, reproduce, m
 
 ## Project Information
 
-**Project:** AegisRisk
-**Type:** Cybersecurity Platform
-**Focus:** Cyber Exposure & Ransomware Readiness
-**Status:** On Hold / Planned for Future Development
-**Owner:** Ziham Mahmud
+**Project:** AegisRisk  
+**Type:** Cybersecurity Platform  
+**Focus:** Cyber Exposure & Ransomware Readiness  
+**Status:** On Hold / Planned for Future Development  
+**Owner:** Ziham Mahmud  
 **Copyright:** © 2026 Ziham Mahmud
 
 ---
